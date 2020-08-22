@@ -32,3 +32,5 @@
 ### Jenkins
 
 ### AWS
+
+* [Getting Started with AWS](https://www.youtube.com/watch?v=ubCNZRNjhyo)
